@@ -50,21 +50,6 @@ jobs:
         run: |
           echo "${{ secrets.YOUTUBE_TOKEN_JSON }}" | base64 -d > auth/token.json
 
-    
-      - name: Check Service Account
-        run: |
-          python <<EOF
-              import json
-              
-              with open("auth/service_account.json") as f:
-                  d = json.load(f)
-              
-              print("type:", d["type"])
-              print("email:", d["client_email"])
-              print("private_key prefix:")
-              print(d["private_key"][:40])
-              EOF
-
       - name: Run Publisher
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
