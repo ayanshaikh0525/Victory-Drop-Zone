@@ -53,19 +53,17 @@ jobs:
     
       - name: Check Service Account
         run: |
-          echo "======== FILE EXISTS ========"
-          ls -l auth/
+          python <<EOF
+      import json
       
-          echo "======== JSON TYPE ========"
-          python -c "
-                    import json
-                    f=open('auth/service_account.json')
-                    d=json.load(f)
-                    print('type:', d['type'])
-                    print('email:', d['client_email'])
-                    print('private_key prefix:')
-                    print(d['private_key'][:35])
-                    "
+      with open("auth/service_account.json") as f:
+          d = json.load(f)
+      
+      print("type:", d["type"])
+      print("email:", d["client_email"])
+      print("private_key prefix:")
+      print(d["private_key"][:40])
+      EOF
 
       - name: Run Publisher
         env:
