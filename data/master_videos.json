@@ -13382,13 +13382,32 @@
       "drive_file_id": "1V6IA7LUS-jbKbQ2X87rqLf8ZIV4NBHJu"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage of competitive gameplay in a winter-themed map of PUBG Mobile, featuring tactical positioning, high-skill gunfights, and multiple enemy eliminations.",
+        "materials": [
+          "AKM (assault rifle)",
+          "Red Dot Sight",
+          "Winter-themed equipment",
+          "Health kits"
+        ],
+        "tools": [
+          "PUBG Mobile game client",
+          "Smartphone",
+          "In-game HUD controls"
+        ],
+        "viral_hook": "Watch this insane high-skill clutch moment in the snowy arena!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "PH4mGiLk7sg",
+        "uploaded_at": "2026-06-05T18:59:09.484141",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13402,6 +13421,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T18:59:01.853777"
     }
   },
   {
