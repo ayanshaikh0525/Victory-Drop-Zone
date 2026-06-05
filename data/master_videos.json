@@ -4687,13 +4687,30 @@
       "drive_file_id": "1Mt58pBsnpiY_DIyjgj8wM73meso-s_RG"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage showcasing aggressive gameplay and elimination streaks in PUBG Mobile's Team Deathmatch mode, featuring quick target acquisition and close-quarters combat.",
+        "materials": [
+          "PUBG Mobile Game",
+          "Assault Rifle (M416)"
+        ],
+        "tools": [
+          "Mobile Device",
+          "Screen Recording Software",
+          "Video Editing Software"
+        ],
+        "viral_hook": "Watch this insane elimination streak in TDM mode!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Buw3avJhVx8",
+        "uploaded_at": "2026-06-05T13:53:17.451104",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4707,6 +4724,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T13:53:11.680957"
     }
   },
   {
