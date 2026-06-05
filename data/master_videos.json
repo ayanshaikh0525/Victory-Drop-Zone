@@ -12044,13 +12044,25 @@
       "drive_file_id": "1hZTTcxUJQ1CaQW0FCxY-TTU_IGQgsucr"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming Setup / Unboxing",
+        "project": "PUBG Mobile branded Recaro Gaming Chair reveal",
+        "summary": "The user shares a video showcasing a special gift received from PUBG Mobile—a branded Recaro gaming chair. The video builds anticipation with a dramatic reveal of the box on a chair, followed by the unveiling of the custom chair itself.",
+        "materials": [
+          "PUBG Mobile x Recaro Branded Gaming Chair"
+        ],
+        "tools": [],
+        "viral_hook": "The video uses a 'Wait for the surprise' text overlay and an emotional reveal of an exclusive, high-value collaboration item to engage the gaming community."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "DOJZBdNLdhg",
+        "uploaded_at": "2026-06-05T16:31:12.686486",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12064,6 +12076,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T16:31:08.206974"
     }
   },
   {
