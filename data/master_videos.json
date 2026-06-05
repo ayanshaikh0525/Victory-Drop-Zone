@@ -2355,13 +2355,31 @@
       "drive_file_id": "1A63Yk-4RZQEzEF9kWWORo5JtZul2vx1i"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay Montage",
+        "summary": "A compilation of intense PUBG Mobile moments showcasing tactical vehicle combat, bridge encounters, and close-quarters action using specialized items like the Shadow Blade.",
+        "materials": [
+          "PUBG Mobile account",
+          "In-game vehicles (Buggy, Sports cars)",
+          "Shadow Blade weapon skin"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Mastering the ultimate bridge trap in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "THxXrLLH3yQ",
+        "uploaded_at": "2026-06-05T10:50:44.082385",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2375,6 +2393,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T10:50:40.150106"
     }
   },
   {
