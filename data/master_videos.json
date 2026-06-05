@@ -7259,13 +7259,29 @@
       "drive_file_id": "1l423hj8o3ItGpfZdAjH_ke6TiREnXku7"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming/Comedy",
+        "project": "PUBG Mobile Apple Sword Trick",
+        "summary": "A real-life creator mimics a popular in-game character action. The video transitions from the real world to a PUBG Mobile game environment where a character attempts to cut an apple with a katana, only to leave the scene entirely instead of completing the action.",
+        "materials": [
+          "Apple",
+          "Katana (toy/replica)"
+        ],
+        "tools": [
+          "Video editing software (green screen/compositing)",
+          "PUBG Mobile game assets"
+        ],
+        "viral_hook": "Expectation vs. Reality: A setup for a cool trick that ends in an unexpected and humorous 'rage quit' or avoidance of the task."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "pk7NPjbDpow",
+        "uploaded_at": "2026-06-05T22:17:25.172021",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7279,6 +7295,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T22:17:21.187274"
     }
   },
   {
