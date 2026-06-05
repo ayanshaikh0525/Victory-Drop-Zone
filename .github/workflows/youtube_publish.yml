@@ -62,7 +62,6 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SOURCE_FOLDER_ID: ${{ secrets.SOURCE_FOLDER_ID }}
-          PROCESSED_FOLDER_ID: ${{ secrets.PROCESSED_FOLDER_ID }}
           PYTHONPATH: .
 
         run: |
