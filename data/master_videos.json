@@ -12579,13 +12579,28 @@
       "drive_file_id": "1w6mmx9P2UXTwCiajekof9NqPdqFJhmDm"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Custom Room Challenge",
+        "summary": "Players are participating in a custom 'Pan-only' combat match, likely a community-created mode involving throwing pans at other players in a restricted platform area.",
+        "materials": [
+          "Pan (melee weapon)"
+        ],
+        "tools": [
+          "Smartphone",
+          "PUBG Mobile Game Client"
+        ],
+        "viral_hook": "Join this exclusive custom room by using the shared creation code to battle with pans!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qQ--nTTV4ZI",
+        "uploaded_at": "2026-06-05T23:46:30.536996",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12599,6 +12614,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T23:46:26.555260"
     }
   },
   {
