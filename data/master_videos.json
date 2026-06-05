@@ -3428,13 +3428,30 @@
       "drive_file_id": "13sUGl_n9thj1d04hOF_E8nvnMoaBotkY"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage showcasing a player's combat skills in a PUBG Mobile Team Deathmatch (TDM) game, featuring skillful maneuvers and weapon usage to defeat opponents.",
+        "materials": [
+          "PUBG Mobile account",
+          "Digital game assets"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch these insane TDM reflexes that left the lobby speechless!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "r3rPimyMPqk",
+        "uploaded_at": "2026-06-05T07:16:22.498565",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3448,6 +3465,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T07:16:16.607065"
     }
   },
   {
