@@ -12363,13 +12363,29 @@
       "drive_file_id": "1vP2W2cr3f0xhzdChcxmptbhgA3tGQE4P"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A player in a panda-themed outfit successfully lands a long-range shot with an AWM sniper rifle, knocking out an opponent named 'B→LäC | nood'.",
+        "materials": [
+          "AWM Sniper Rifle",
+          "Panda Headgear"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Sniper Scope"
+        ],
+        "viral_hook": "Satisfying long-range AWM knockdown!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "HD1sicUY2sA",
+        "uploaded_at": "2026-06-06T16:08:40.658448",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12383,6 +12399,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T16:08:35.025568"
     }
   },
   {
