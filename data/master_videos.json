@@ -1166,13 +1166,31 @@
       "drive_file_id": "1Bh34R6dxMqc3zTHn7Fb6LjEWlB7UtzZc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage clip featuring a player using a specialized skin (Tesla) and engaging in combat. The player successfully eliminates multiple opponents while inside and around a vehicle, showcasing high-skill tactical play and precision shooting from a defensive position behind a building.",
+        "materials": [
+          "Tesla vehicle skin",
+          "Mythic/Legendary character outfit",
+          "Assault rifle (equipped with scope)"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "In-game touch controls",
+          "Scope/Optic attachment"
+        ],
+        "viral_hook": "Watch this insane squad wipe from inside a Tesla! Precision shots you won't believe."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Ii3rfHKJE6s",
+        "uploaded_at": "2026-06-06T14:43:53.181941",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1186,6 +1204,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T14:43:49.094896"
     }
   },
   {
