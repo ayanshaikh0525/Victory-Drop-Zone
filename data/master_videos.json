@@ -4939,13 +4939,28 @@
       "drive_file_id": "1HxNk6GjwbO6L21Cr7IfNn4rlYSrqoQgS"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A compilation of intense PUBG Mobile gameplay clips showing a player engaging in combat, utilizing cover, and effectively targeting opponents to secure points in a match.",
+        "materials": [
+          "PUBG Mobile Game Client"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen Recording Software"
+        ],
+        "viral_hook": "Watch this insane clutch moment! Can you believe this skill? Wait for the ending!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "NU7O7TboSMA",
+        "uploaded_at": "2026-06-06T06:55:35.397113",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4959,6 +4974,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T06:55:31.589535"
     }
   },
   {
