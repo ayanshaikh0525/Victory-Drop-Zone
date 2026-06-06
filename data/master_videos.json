@@ -7076,13 +7076,32 @@
       "drive_file_id": "1aB7OvWgQuiZDYkmB3LU3ryQNSH8DKdVc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage featuring a professional player (Jonathan) engaging in combat, utilizing a ghillie suit for stealth, driving a buggy, and successfully eliminating opponents in a battle royale match.",
+        "materials": [
+          "Ghillie suit",
+          "Assault rifle",
+          "Buggy vehicle",
+          "Smoke grenade"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Gaming PC/Smartphone",
+          "Streaming overlay"
+        ],
+        "viral_hook": "Watch pro player Jonathan's intense stealth kills and tactical driving in this high-stakes PUBG Mobile clutch moment."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Gn1dBuoohvI",
+        "uploaded_at": "2026-06-06T22:06:10.022896",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7096,6 +7115,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T22:05:55.692890"
     }
   },
   {
