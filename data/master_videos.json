@@ -17945,13 +17945,29 @@
       "drive_file_id": "1vsdEzbED6YuswGbAH2xQJuhgE6IPmbkg"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A creative gameplay sequence in PUBG Mobile where a player character is shown holding a tablet, which displays the actual game UI and perspective, creating an 'in-game inception' effect.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "Character skin (Golden/White armor)"
+        ],
+        "tools": [
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "POV: You're playing PUBG inside PUBG."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Az9cJn6nNew",
+        "uploaded_at": "2026-06-06T17:42:59.277666",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17965,6 +17981,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T17:42:52.434193"
     }
   },
   {
