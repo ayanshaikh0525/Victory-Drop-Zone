@@ -12053,13 +12053,26 @@
       "drive_file_id": "1RoApX3QtuR63Vwa_0hzNqz4quCBiNxxn"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming Setup / Unboxing",
+        "project": "PUBG Mobile x Recaro Gaming Chair Reveal",
+        "summary": "The video showcases an unboxing or reveal of a special edition PUBG Mobile gaming chair made by Recaro. The creator displays the chair and a branded box, expressing gratitude for the gift.",
+        "materials": [
+          "Recaro gaming chair",
+          "PUBG Mobile branded packaging"
+        ],
+        "tools": [],
+        "viral_hook": "Wait for the surprise! 😍 I received an exclusive gift from PUBG Mobile."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "nPPQ0OQ7zJQ",
+        "uploaded_at": "2026-06-06T03:46:46.683137",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12073,6 +12086,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T03:46:42.795081"
     }
   },
   {
