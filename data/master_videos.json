@@ -3635,13 +3635,30 @@
       "drive_file_id": "153sXfX4OygUMtFz5nBpQwnwvIQzjSUcn"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay Highlights",
+        "summary": "A compilation of intense combat moments from PUBG Mobile featuring tactical maneuvers, sniping, and squad-based firefights in various terrains including snowy and desert maps.",
+        "materials": [
+          "PUBG Mobile game",
+          "In-game firearms (assault rifles, sniper rifles)"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch these insane clutch moments that turn the tide of the battle in seconds!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "G_UHE4jUI7o",
+        "uploaded_at": "2026-06-06T19:28:16.748925",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3655,6 +3672,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T19:28:11.765062"
     }
   },
   {
