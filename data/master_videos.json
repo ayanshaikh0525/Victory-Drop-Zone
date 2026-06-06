@@ -16452,13 +16452,32 @@
       "drive_file_id": "14_T9e5-fQW-qTViFfNVOOSclgBJ6f1wp"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale 1v4 Combat",
+        "summary": "A high-intensity gameplay clip from BGMI (Battlegrounds Mobile India) showcasing a player performing a 1v4 clutch maneuver. The sequence depicts the player using strategic items like smoke grenades and aggressive close-range combat techniques in a snowy map environment to eliminate multiple opponents.",
+        "materials": [
+          "Smoke grenade",
+          "Frag grenade",
+          "Assault rifle",
+          "Health recovery items"
+        ],
+        "tools": [
+          "Smartphone",
+          "BGMI Game Client",
+          "In-game HUD controls"
+        ],
+        "viral_hook": "1v4 Fast Clutch! 🥵 Wait for End 😱"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "m1ZAMNtCyCQ",
+        "uploaded_at": "2026-06-06T09:28:00.540124",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16472,6 +16491,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T09:27:54.419781"
     }
   },
   {
