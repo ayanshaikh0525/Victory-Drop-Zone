@@ -12516,13 +12516,30 @@
       "drive_file_id": "16uxxZx4iUF3hofpurBTrmMiGZXVnET8l"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay Highlights",
+        "summary": "A fast-paced montage of intense battle royale gameplay featuring aggressive combat, weapon attachments with glowing effects, and high-energy transitions.",
+        "materials": [
+          "Digital game assets",
+          "Video editing software"
+        ],
+        "tools": [
+          "Gaming console or PC",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "These insane fast-paced gaming clips are what you need to see!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WnDtfrpFBIY",
+        "uploaded_at": "2026-06-06T12:52:16.917581",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12536,6 +12553,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T12:52:05.437065"
     }
   },
   {
