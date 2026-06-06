@@ -2289,13 +2289,29 @@
       "drive_file_id": "1CUp32upGyPDOWylaxngEyqiJsTqDhbi5"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "The video showcases a gameplay sequence in PUBG Mobile featuring a custom game mode that mimics the mechanics of 'Blade Ball', where players deflect a rapidly moving ball using melee weapons in a tennis court-themed arena.",
+        "materials": [
+          "B.Duck character skin",
+          "Blade Ball-style custom game mode"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Screen recording software"
+        ],
+        "viral_hook": "Blade Ball mechanics inside PUBG Mobile? 😲"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "UR8EC7XkNPk",
+        "uploaded_at": "2026-06-06T23:36:43.530180",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2309,6 +2325,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T23:36:39.495473"
     }
   },
   {
