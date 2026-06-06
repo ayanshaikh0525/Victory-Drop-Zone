@@ -4542,13 +4542,29 @@
       "drive_file_id": "1bSeDrMVsU3vDY5WbRCl9427Irs8vL_nO"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay Highlights",
+        "summary": "A fast-paced montage featuring skilled gameplay from a mobile battle royale title, showcasing precision marksmanship, aggressive tactics, and high-intensity combat encounters against multiple opponents.",
+        "materials": [
+          "Battle Royale game application"
+        ],
+        "tools": [
+          "Mobile gaming device",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch these insane, frame-perfect eliminations that prove why aiming is everything!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "5ibB9r5OsUk",
+        "uploaded_at": "2026-06-06T11:06:03.728290",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4562,6 +4578,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T11:05:58.027422"
     }
   },
   {
