@@ -15947,13 +15947,32 @@
       "drive_file_id": "1jKFpHA1D75yu_lACoBBou7_l_0k4Q5ci"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "A high-intensity montage of gameplay clips featuring tactical movement, looting in building complexes, and aggressive close-quarters combat against opposing players.",
+        "materials": [
+          "Smoke Grenade",
+          "Proxy Scout Device",
+          "S12K Shotgun",
+          "Assault Rifle",
+          "Molotov Cocktail"
+        ],
+        "tools": [
+          "PUBG Mobile Game Interface",
+          "Touchscreen controls"
+        ],
+        "viral_hook": "Experience the intense action of a PUBG combat specialist."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WhqBkdhJEdQ",
+        "uploaded_at": "2026-06-07T18:49:44.459195",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -15967,6 +15986,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T18:49:26.321168"
     }
   },
   {
