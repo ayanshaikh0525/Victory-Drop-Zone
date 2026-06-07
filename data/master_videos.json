@@ -13130,13 +13130,29 @@
       "drive_file_id": "1KNU-w3KLla-4bt84u7LR6s-kQIw25FRL"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming/Comedy Content",
+        "project": "Fruit Slicing Simulation",
+        "summary": "A split-screen comparison video showing a real-life individual performing a katana fruit-slicing trick versus an animated version featuring a duck character and a shirtless male game avatar mimicking the action in a virtual environment.",
+        "materials": [
+          "Green apples",
+          "Red apples"
+        ],
+        "tools": [
+          "Katana",
+          "Gaming software/Animation engine"
+        ],
+        "viral_hook": "Comparing real-life sword skills with their bizarre, animated gaming counterparts."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "UU1bLlXUOdY",
+        "uploaded_at": "2026-06-07T15:54:38.833116",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13150,6 +13166,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T15:54:34.563563"
     }
   },
   {
