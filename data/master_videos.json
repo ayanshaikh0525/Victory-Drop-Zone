@@ -14428,13 +14428,31 @@
       "drive_file_id": "1-iNdQeOgP1Vp_rFPCdP0Tpjo9YjrzpEs"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI)",
+        "summary": "The player, using the 'Mummy' skin, engages in combat inside a building. After initially shooting at an opponent, the player attempts to throw a grenade out of the window to finish off an enemy, but inadvertently hits the window frame, causing the grenade to bounce back inside and knock themselves out, leading to their own team's elimination.",
+        "materials": [
+          "BGMI game assets",
+          "Mummy character skin",
+          "AUG A3 assault rifle"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software",
+          "Editing software for text overlay"
+        ],
+        "viral_hook": "How to fail at BGMI: The legendary 'Moye Moye' self-grenade blooper."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "eD_rH6Hgsp4",
+        "uploaded_at": "2026-06-07T14:29:43.477055",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -14448,6 +14466,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:29:33.511988"
     }
   },
   {
