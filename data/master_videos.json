@@ -16636,13 +16636,29 @@
       "drive_file_id": "1irLckYSsVyucikm1p5h7jwHFlbMiduzI"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage showcasing quick reflex skills and tactical combat maneuvers in a battle royale match, featuring rapid targeting and eliminating opponents.",
+        "materials": [
+          "PUBG Mobile",
+          "BGMI"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software"
+        ],
+        "viral_hook": "Reflex to Hai😱 Wait for end❤️"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4ah-ISmsZts",
+        "uploaded_at": "2026-06-07T20:15:17.604931",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16656,6 +16672,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T20:15:08.530757"
     }
   },
   {
