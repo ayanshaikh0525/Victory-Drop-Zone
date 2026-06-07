@@ -3335,13 +3335,31 @@
       "drive_file_id": "13yRs27FsDnTuYcl8M-wAHUBiGKQtJI11"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Content Creation",
+        "summary": "A montage video featuring customized player avatars and characters from the game PUBG Mobile, likely showcasing premium skins and gear, edited by a content creator named Dextor.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "Character skins",
+          "Weapon skins",
+          "In-game lobby interface"
+        ],
+        "tools": [
+          "Video editing software (e.g., CapCut, Premiere Pro)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Showcasing rare, high-tier character skins and weapon loadouts to appeal to the competitive gaming community."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "2ttwSIGUveA",
+        "uploaded_at": "2026-06-07T10:41:15.376049",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3355,6 +3373,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T10:41:11.289769"
     }
   },
   {
