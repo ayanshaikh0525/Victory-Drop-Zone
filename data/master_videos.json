@@ -18975,13 +18975,28 @@
       "drive_file_id": "1CHiggbC27UPJ5cN4dzri6kEw4FwgnZr6"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage-style gameplay clip from PUBG Mobile featuring intense combat sequences, tactical movement, and eliminations.",
+        "materials": [
+          "PUBG Mobile game assets"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these lightning-fast reflexes secure a squad wipe in seconds!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "6ROZKQG66IY",
+        "uploaded_at": "2026-06-07T17:21:33.430264",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -18995,6 +19010,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T17:21:28.407349"
     }
   },
   {
