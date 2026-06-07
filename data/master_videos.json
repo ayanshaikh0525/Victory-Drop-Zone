@@ -5578,13 +5578,30 @@
       "drive_file_id": "1f2-F-xfZWkNvQEw0uIHwP5o1iYNGxz0c"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Montage",
+        "summary": "A fast-paced gameplay montage featuring high-skill sniper shots, tactical movement, and vehicle usage in PUBG Mobile, enhanced with stylized video effects and music.",
+        "materials": [
+          "PUBG Mobile game footage",
+          "Music track",
+          "Editing transitions"
+        ],
+        "tools": [
+          "Video editing software (e.g., CapCut, Premiere Pro)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these insane sniper shots that will leave you speechless! #PUBGMobile #GamingMontage #SniperGod"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "iBxEzIHGd7I",
+        "uploaded_at": "2026-06-07T08:07:24.231329",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5598,6 +5615,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T08:07:19.852305"
     }
   },
   {
