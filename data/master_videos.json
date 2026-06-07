@@ -12143,13 +12143,28 @@
       "drive_file_id": "1w2JXSy7bsSz0NGtRxyq5ywoflI6A0_UF"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A player uses a sniper rifle (AWM) to successfully land a precise long-distance shot, knocking out an opponent named 'vickeynajan101' during a tactical engagement.",
+        "materials": [
+          "AWM Sniper Rifle",
+          "Scope Attachment"
+        ],
+        "tools": [
+          "PUBG Mobile Game Interface"
+        ],
+        "viral_hook": "Satisfying AWM sniper shot for the instant knock!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "skCm-vHv8Mk",
+        "uploaded_at": "2026-06-07T23:09:30.287501",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12163,6 +12178,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T23:09:13.436149"
     }
   },
   {
