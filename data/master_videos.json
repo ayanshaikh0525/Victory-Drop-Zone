@@ -2755,13 +2755,28 @@
       "drive_file_id": "1kq5hvVAvOO0AzRBfr0Rs1-_xiukLs_eH"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay Montage",
+        "summary": "A fast-paced, edited gameplay montage of PUBG Mobile featuring snipers, Ghillie suits, and high-skill combat scenarios. The video uses heavy visual effects, transitions, and overlays to create an engaging highlight reel.",
+        "materials": [
+          "PUBG Mobile game footage"
+        ],
+        "tools": [
+          "Video editing software (e.g., CapCut, Premiere Pro, After Effects)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these insane sniper shots and pro-level plays that you won't believe!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "h9SVJwCzIuE",
+        "uploaded_at": "2026-06-07T21:45:38.172267",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2775,6 +2790,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T21:45:29.757881"
     }
   },
   {
