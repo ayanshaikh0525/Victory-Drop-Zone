@@ -586,13 +586,30 @@
       "drive_file_id": "1VPSXSmHgK2C-JiqprCOKZljOgMabBJCz"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art",
+        "project": "PUBG Halloween Fan Art",
+        "summary": "An illustrative digital artwork featuring a PUBG player character wearing the iconic Level 3 helmet, sitting under a tree at night, holding a glowing Jack-o'-lantern, depicting a thematic Halloween crossover.",
+        "materials": [
+          "Digital canvas",
+          "Color palette (orange/black/blue)",
+          "Light texture overlays"
+        ],
+        "tools": [
+          "Digital illustration software (e.g., Photoshop, Procreate)",
+          "Graphics tablet"
+        ],
+        "viral_hook": "When the battle royale meets the witching hour—see how PUBG celebrates Halloween!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "nRYFARp_wZE",
+        "uploaded_at": "2026-06-07T04:13:38.511324",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -606,6 +623,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T04:13:34.620617"
     }
   },
   {
