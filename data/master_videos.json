@@ -10028,13 +10028,29 @@
       "drive_file_id": "1yXfrzDjW2NRysLVijlGJexOLhWws8ge6"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A high-intensity sniping sequence in PUBG Mobile where a player positioned on a grassy hill uses a bolt-action sniper rifle to take down enemies, resulting in a team elimination notification.",
+        "materials": [
+          "Bolt-action sniper rifle",
+          "6x scope"
+        ],
+        "tools": [
+          "PUBG Mobile game client",
+          "Mobile touch controls"
+        ],
+        "viral_hook": "Watch this insane sniper play: Taking down an entire squad from the hilltop!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WsGDf5zHihY",
+        "uploaded_at": "2026-06-07T12:23:05.291723",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10048,6 +10064,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T12:22:59.538471"
     }
   },
   {
