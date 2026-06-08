@@ -17061,13 +17061,29 @@
       "drive_file_id": "1YiHZKa-yA-Lj1xNSNT8WX9B3gbCHVLUT"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming/Entertainment",
+        "project": "PUBG Mobile / Battlegrounds Mobile India (BGMI) Gameplay Edit",
+        "summary": "The video features a gameplay edit from a mobile battle royale game, showing a female character performing a dance emote. The clip starts with a text-overlay sequence featuring lyrics from a popular Hindi song set against a starry, space-themed background, before transitioning to the in-game footage.",
+        "materials": [
+          "In-game character outfit/skin",
+          "Dance emote asset"
+        ],
+        "tools": [
+          "Video editing software (e.g., CapCut, VN Editor)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Using trending lyrical text overlays paired with a high-energy dance emote to create a nostalgic or aesthetic atmosphere for social media engagement."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "JiZ5m7uW03k",
+        "uploaded_at": "2026-06-08T01:41:23.645328",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17081,6 +17097,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T01:41:19.734599"
     }
   },
   {
