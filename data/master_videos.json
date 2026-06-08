@@ -13311,13 +13311,30 @@
       "drive_file_id": "1sQvtnFDmjC70jcI5WTrtQbvGAESzD0gU"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay/Cinematics",
+        "summary": "The video features gameplay footage of PUBG Mobile, highlighting a player using a sniper rifle to spot targets from a high vantage point on a bridge. It also includes scenic transitions showcasing various environments like rocky cliffs, grassy hills, and coastal areas, ending with a view of a dinosaur skeleton structure near the water.",
+        "materials": [
+          "PUBG Mobile Game Assets",
+          "Sniper Rifle",
+          "B.Duck Themed Skin"
+        ],
+        "tools": [
+          "PUBG Mobile Game Engine",
+          "In-game Camera/Recording Tools"
+        ],
+        "viral_hook": "Experience the ultimate sniping precision and stunning landscapes in this intense PUBG Mobile action sequence."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "PijvJw4pjmM",
+        "uploaded_at": "2026-06-08T21:23:05.128744",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13331,6 +13348,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T21:23:01.108275"
     }
   },
   {
