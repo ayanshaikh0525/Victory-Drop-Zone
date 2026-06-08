@@ -1381,13 +1381,30 @@
       "drive_file_id": "1LYP30_J85-bAKMClSGAxg75N3HpPPOiY"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "3D Animation / Digital Art",
+        "project": "Character Showcase/Showreel",
+        "summary": "A 3D animated character model showcase featuring a girl with pink hair in pigtails, dressed in a vibrant pink and orange tutu-style outfit. The sequence displays the character from various angles in a desolate landscape setting, transitioning from a full-body view to a close-up facial reveal.",
+        "materials": [
+          "3D Digital Assets",
+          "Digital Textures"
+        ],
+        "tools": [
+          "3D Modeling Software",
+          "Animation Software",
+          "Rendering Engine"
+        ],
+        "viral_hook": "Is this the next big virtual influencer? Watch her come to life in this stunning 3D reveal."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "cOMCejmW1TU",
+        "uploaded_at": "2026-06-08T16:36:20.877037",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1401,6 +1418,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T16:35:56.179167"
     }
   },
   {
