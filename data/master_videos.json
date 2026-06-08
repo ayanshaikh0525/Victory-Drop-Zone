@@ -15810,13 +15810,28 @@
       "drive_file_id": "1ZJz-oHDYZj5aE23nmN9wq-rBhFHRj_hd"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage of intense combat gameplay in PUBG Mobile featuring the player 'iG Spidey'. The footage highlights fast-paced tactical engagements, including close-quarters combat, squad elimination, and strategic use of smoke grenades to maneuver during battles.",
+        "materials": [
+          "PUBG Mobile game software"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch this insane squad wipe—is this the best aim in PUBG Mobile?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0eq8oSsqYf0",
+        "uploaded_at": "2026-06-08T22:57:47.082876",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -15830,6 +15845,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T22:57:42.118444"
     }
   },
   {
