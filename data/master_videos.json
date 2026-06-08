@@ -9495,13 +9495,29 @@
       "drive_file_id": "1VpyigiHTBTiGsrA8umiEicYhaP6MOfi-"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A streamer is playing PUBG Mobile, engaging in high-stakes combat while driving a buggy vehicle. The footage shows the player navigating the map, managing ammo, and eliminating opponents in a fast-paced battle royale scenario.",
+        "materials": [
+          "PUBG Mobile game"
+        ],
+        "tools": [
+          "Gaming PC/Console",
+          "Headset",
+          "Streaming software"
+        ],
+        "viral_hook": "Watch this intense, high-skill PUBG maneuver that secures a win in the final zone!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "F0Q-X85uqPY",
+        "uploaded_at": "2026-06-08T12:01:28.612903",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9515,6 +9531,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T12:01:10.695818"
     }
   },
   {
