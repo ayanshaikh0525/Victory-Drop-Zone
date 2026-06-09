@@ -11370,13 +11370,30 @@
       "drive_file_id": "16oFEx7AS5C8lIKBPbcGw3ydqQmApyzCO"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "BGMI Gameplay",
+        "summary": "A high-skill gameplay clip from BGMI where a player uses an assault rifle with a scope to perform a precise long-range spray, successfully eliminating an enemy driving a car from a rooftop position.",
+        "materials": [
+          "BGMI game assets",
+          "Assault rifle",
+          "Scope attachment"
+        ],
+        "tools": [
+          "Smartphone",
+          "BGMI mobile game"
+        ],
+        "viral_hook": "Spray to Hai 🥵 - 1 subscribe ❤️"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "e--GCf7wa9A",
+        "uploaded_at": "2026-06-09T04:46:45.566473",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11390,6 +11407,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T04:46:37.630772"
     }
   },
   {
