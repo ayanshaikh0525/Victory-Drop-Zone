@@ -13717,13 +13717,29 @@
       "drive_file_id": "1NJRwP8YYZc_mf8_jgPLYJlv25GLHuzwI"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "The frames depict a player engaging in a fast-paced combat scenario within a PUBG Mobile team deathmatch. The player utilizes cover, tactical positioning, and automatic rifle fire to secure eliminations against opponents, with on-screen notifications highlighting achievements like 'Target Locked' and 'Moving Up'.",
+        "materials": [
+          "PUBG Mobile Game Client",
+          "Digital Weaponry (Assault Rifle)"
+        ],
+        "tools": [
+          "Mobile Smartphone",
+          "In-game HUD controls"
+        ],
+        "viral_hook": "Watch how I dominate the competition with these pro-level aim and positioning tricks!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "jiMFYv7l3l0",
+        "uploaded_at": "2026-06-09T13:46:40.638590",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13737,6 +13753,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T13:46:35.215102"
     }
   },
   {
