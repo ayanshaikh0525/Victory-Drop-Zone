@@ -13572,13 +13572,31 @@
       "drive_file_id": "1vK_3K2ThC-l3o55jNFM24Auixhz7uj9A"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "A high-intensity montage of battle royale gameplay, showcasing strategic combat encounters, tactical positioning, grenade usage, and squad-based elimination sequences.",
+        "materials": [
+          "In-game cosmetics (outfits, backpacks, weapon skins)",
+          "Consumables (health/energy items)",
+          "Throwables (grenades)"
+        ],
+        "tools": [
+          "Mobile device",
+          "PUBG Mobile game application",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these intense, high-skill clutch moments and tactical finishes from an pro-level PUBG Mobile squad!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "H87xv1eJurc",
+        "uploaded_at": "2026-06-09T16:33:55.081055",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13592,6 +13610,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T16:33:47.733821"
     }
   },
   {
