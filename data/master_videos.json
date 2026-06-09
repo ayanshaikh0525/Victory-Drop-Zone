@@ -12065,13 +12065,29 @@
       "drive_file_id": "1kW2FA6Rw93adVUGVd5pfaDXcYpAbR0Bg"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Video Editing",
+        "project": "Free Fire game edit with visual effects",
+        "summary": "This video shows a mobile video editing interface (CapCut) applying a floral/blossom transition effect to a character from the game Free Fire. The character, wearing a blindfold and red devil horns, is being edited with an overlay of flowers.",
+        "materials": [
+          "Free Fire character gameplay clip",
+          "Floral pattern/overlay asset"
+        ],
+        "tools": [
+          "CapCut mobile app",
+          "Mobile phone"
+        ],
+        "viral_hook": "Transforming a Free Fire character with a floral transition effect in CapCut."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ITtgXhzWKnA",
+        "uploaded_at": "2026-06-09T21:50:20.639089",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12085,6 +12101,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T21:50:16.708535"
     }
   },
   {
