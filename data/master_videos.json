@@ -12721,13 +12721,28 @@
       "drive_file_id": "1s0ezeFEaOWCstVktj3_0U44jGnYKf7PQ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "A player uses an AWM sniper rifle to successfully knock out an opponent in a PUBG Mobile match.",
+        "materials": [
+          "AWM Sniper Rifle",
+          "Panda Headgear"
+        ],
+        "tools": [
+          "PUBG Mobile game software"
+        ],
+        "viral_hook": "Watch this perfect AWM long-range shot!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BWebuTIBK-U",
+        "uploaded_at": "2026-06-09T23:19:59.899239",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12741,6 +12756,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T23:19:52.190504"
     }
   },
   {
