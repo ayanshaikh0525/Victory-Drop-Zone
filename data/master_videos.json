@@ -3423,13 +3423,28 @@
       "drive_file_id": "11LRQhVKJpD3eMuUg6UO5N07XkRltPFyn"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A compilation of intense combat highlights from a PUBG Mobile match, showcasing the player achieving a 5-kill streak while engaging enemies in close-quarters combat.",
+        "materials": [
+          "PUBG Mobile game software"
+        ],
+        "tools": [
+          "Smartphone",
+          "M416 Assault Rifle"
+        ],
+        "viral_hook": "Watch me secure a 5-kill streak in seconds! Can you handle this kind of pressure?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "IZdY0v6DFi0",
+        "uploaded_at": "2026-06-09T10:36:54.259247",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3443,6 +3458,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T10:36:48.394207"
     }
   },
   {
