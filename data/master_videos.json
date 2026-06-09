@@ -3025,13 +3025,29 @@
       "drive_file_id": "1aiOBl0VIPlUGFCmnTH6gRGPC349Cih6s"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Creative Content",
+        "project": "PUBG Mobile custom mode crocodile toy recreation",
+        "summary": "This video compares a physical 'Crocodile Dentist' game to a custom-built, oversized version created inside the game environment of PUBG Mobile.",
+        "materials": [
+          "Physical crocodile toy",
+          "PUBG Mobile custom mode assets"
+        ],
+        "tools": [
+          "Video editing software",
+          "PUBG Mobile game engine"
+        ],
+        "viral_hook": "Have you ever wondered what it would be like to play the classic Crocodile Dentist game inside PUBG?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ohim1tQ2CQg",
+        "uploaded_at": "2026-06-09T19:20:00.567054",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3045,6 +3061,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T19:19:56.387804"
     }
   },
   {
