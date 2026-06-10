@@ -13969,13 +13969,28 @@
       "drive_file_id": "1axT3urX5SorudBXcMmhEExrV88VI-FR8"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A high-skill PUBG Mobile player engages in intense combat within a winter-themed map. The player uses tactical positioning behind ice structures and precise aim to secure multiple knockouts and eventually eliminate an opposing team.",
+        "materials": [
+          "AKM assault rifle",
+          "Red dot sight"
+        ],
+        "tools": [
+          "Mobile gaming device"
+        ],
+        "viral_hook": "Watch this insane squad wipe! Witness the ultimate clutch play in the middle of a heated battle."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "V1YpLzuhZ-Q",
+        "uploaded_at": "2026-06-10T12:27:12.200927",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13989,6 +14004,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T12:27:07.172344"
     }
   },
   {
