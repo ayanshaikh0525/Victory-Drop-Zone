@@ -5570,13 +5570,32 @@
       "drive_file_id": "13-FnJtaSN_k4gwJyQMRJqAELdmBbK6Js"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Character Customization",
+        "summary": "A video showcasing different character outfits, accessories, and emotes within the PUBG Mobile interface.",
+        "materials": [
+          "In-game cosmetic items",
+          "Character skins",
+          "Hats/headwear",
+          "Outfits",
+          "Backpacks"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Screen recording software"
+        ],
+        "viral_hook": "See the best character outfit combinations in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ocYMeRpPWhc",
+        "uploaded_at": "2026-06-10T22:07:38.581435",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5590,6 +5609,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T22:07:34.127498"
     }
   },
   {
