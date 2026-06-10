@@ -2709,13 +2709,30 @@
       "drive_file_id": "1JbIjarGIcaWQrvsGWntACpdNtdAHWwRo"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage showcasing a high-skill combat sequence in PUBG Mobile, where the player manages inventory, revives a teammate under pressure, and successfully secures an elimination against an opposing team.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "In-game equipment (backpack, medical supplies, weapons)"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software",
+          "Video editing software (for overlay and effects)"
+        ],
+        "viral_hook": "Watch this insane squad save and clutch victory in the final seconds!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "gspg4FR9FUY",
+        "uploaded_at": "2026-06-10T16:38:36.707227",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2729,6 +2746,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T16:38:30.137468"
     }
   },
   {
