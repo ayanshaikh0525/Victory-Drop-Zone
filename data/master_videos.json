@@ -8655,13 +8655,30 @@
       "drive_file_id": "1CaaaLH9QEJacbUjqnI2Vi9f2pa-gSVqc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage or gameplay capture of a player in PUBG Mobile, showing tactical movement, looting equipment, engaging in sniping, and securing eliminations. The footage includes a webcam overlay of the player and promotional text for a game currency shop.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "In-game items (weapons, armor, helmets, loot)"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software",
+          "Streaming/Editing software"
+        ],
+        "viral_hook": "Watch this intense high-skill PUBG Mobile gameplay featuring pro-level sniping and strategic looting."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "iFlZd4uAO2c",
+        "uploaded_at": "2026-06-10T19:37:40.992447",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8675,6 +8692,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T19:37:36.549580"
     }
   },
   {
