@@ -1488,13 +1488,31 @@
       "drive_file_id": "1pdi8OCIhGwm9s0bIlty6Zht1oOnuxZUo"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Video game character skin showcase",
+        "summary": "A high-energy, stylized montage featuring a character from a mobile battle royale game (likely Free Fire or similar). The character wears a menacing clown-inspired outfit with glowing fire effects and transitions through various combat emotes and poses against shifting, surreal backgrounds.",
+        "materials": [
+          "Digital game assets",
+          "Character skin",
+          "Visual effects (fire/ice)"
+        ],
+        "tools": [
+          "Video editing software",
+          "Game screen recording",
+          "Motion graphics"
+        ],
+        "viral_hook": "A rapid-fire, high-intensity edit of the most 'dripped out' character skins set to a rhythmic, heavy bass track."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "3RHDIsJOD8w",
+        "uploaded_at": "2026-06-10T08:53:19.882616",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1508,6 +1526,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T08:53:15.509410"
     }
   },
   {
