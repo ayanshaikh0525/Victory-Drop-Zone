@@ -7562,13 +7562,29 @@
       "drive_file_id": "1rR5Epd_bpmBn4_WvlpaGe-Y81gfE6eGO"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming & Comedy",
+        "project": "PUBG Mobile funny skit",
+        "summary": "A creative video edit featuring a real-life person holding a sword (katana) transitioning into a PUBG Mobile game character. The character interacts with another player (a female character in a duck hat) before walking away, leaving an apple on a table.",
+        "materials": [
+          "Apple",
+          "Katana (sword)"
+        ],
+        "tools": [
+          "Video editing software",
+          "Screen recording software (for gaming footage)"
+        ],
+        "viral_hook": "Using smooth transitions to blend real-life actions with in-game character animations for a comedic effect."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "y58I6zj0T2g",
+        "uploaded_at": "2026-06-10T04:08:44.891267",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7582,6 +7598,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T04:08:40.946468"
     }
   },
   {
