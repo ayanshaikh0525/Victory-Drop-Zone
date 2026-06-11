@@ -19336,13 +19336,30 @@
       "drive_file_id": "1QGhynfek3-YYQRDLDljzYwdYeV9oca4x"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage or gameplay clip showing a player engaging in an intense team deathmatch in PUBG Mobile, featuring a player perspective (FPP/TPP mix) with an overlay of the streamer and a promotional shop watermark.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "Stream overlay graphics"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch this intense, high-skill clutch moment from a professional PUBG Mobile team deathmatch!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "mu8Z3MYEfNc",
+        "uploaded_at": "2026-06-11T05:54:04.323587",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -19356,6 +19373,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T05:54:00.169687"
     }
   },
   {
