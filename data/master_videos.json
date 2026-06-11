@@ -16006,13 +16006,31 @@
       "drive_file_id": "1pCg78vzpfhfygBRmkhSwv52Gc67MXyMA"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay Montage",
+        "summary": "A compilation of intense combat highlights from PUBG Mobile, featuring various firefights in different environments including urban building combat and long-range sniping engagements.",
+        "materials": [
+          "PUBG Mobile account",
+          "Various in-game weapons (assault rifles, sniper rifles)",
+          "In-game utility items (smoke grenades)"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software",
+          "Video editing software for montages"
+        ],
+        "viral_hook": "Are these the craziest clutch moments in PUBG Mobile history? Watch until the end for the insane sniper shot!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "MTHXUQgGcVY",
+        "uploaded_at": "2026-06-11T00:20:27.698002",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16026,6 +16044,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T00:20:22.395006"
     }
   },
   {
