@@ -14526,13 +14526,28 @@
       "drive_file_id": "1CeXvS6yWRI8mSYObBQobeiFL2-J0t1KI"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay",
+        "summary": "High-intensity PUBG Mobile gameplay featuring a player in a snowy map environment engaging in combat, sniping enemies, and using vehicles and snowboarding mechanics to navigate the terrain.",
+        "materials": [
+          "PUBG Mobile Game"
+        ],
+        "tools": [
+          "Mobile Smartphone",
+          "Screen Recording Software"
+        ],
+        "viral_hook": "Watch this insane clutch move in a snowy PUBG match that you won't believe!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "w0ocE0KNibI",
+        "uploaded_at": "2026-06-11T14:42:12.086854",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -14546,6 +14561,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T14:42:07.961735"
     }
   },
   {
