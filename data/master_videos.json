@@ -6656,13 +6656,30 @@
       "drive_file_id": "1N58TspDXIS4yHBImo5G5qYkFKRM8rQZL"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A split-screen video featuring a professional gamer (GodL Jonathan) playing PUBG Mobile. The top frame shows intense in-game combat, including grenade usage and tactical maneuvering, while the bottom frame shows the player focused on his mobile device in a gaming setup.",
+        "materials": [
+          "PUBG Mobile account",
+          "Mobile device"
+        ],
+        "tools": [
+          "Gaming chair",
+          "Headset",
+          "Smartphone"
+        ],
+        "viral_hook": "Watch one of the world's fastest PUBG Mobile players in action with this insane reflex display!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "v45BN3LJWtw",
+        "uploaded_at": "2026-06-11T10:45:07.456212",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6676,6 +6693,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T10:45:02.459253"
     }
   },
   {
