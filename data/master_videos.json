@@ -12535,13 +12535,30 @@
       "drive_file_id": "1Fv9axr48XksLO6bklMm_9dknD-PtARgW"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Pop Culture",
+        "project": "Fan Edit / Superhero Montage",
+        "summary": "A short video edit contrasting the struggle of other characters to defeat the villain Steppenwolf with the overwhelming, effortless strength of Superman using a tiny fraction of his power.",
+        "materials": [
+          "Clips from Zack Snyder's Justice League",
+          "Background music (implied)",
+          "Text overlays"
+        ],
+        "tools": [
+          "Video editing software (e.g., CapCut, Premiere Pro, After Effects)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Superman using only 0.0001% of his power to dominate the villain."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BiS1q4n66Jk",
+        "uploaded_at": "2026-06-18T20:31:16.874432",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12555,6 +12572,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T20:31:11.369490"
     }
   },
   {
