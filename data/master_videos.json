@@ -2651,13 +2651,31 @@
       "drive_file_id": "1-qjGfXMTdJcyrC4LDS5z7vBp-5DCyO6e"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A compilation of intense combat encounters in PUBG Mobile. The player uses a mix of assault rifles and tactical gear to engage enemies in both indoor house-clearing scenarios and outdoor snowy terrain, culminating in a 'Team Eliminated' victory.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "Assault rifles",
+          "Tactical gear/skins"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch this insane clutch transition from indoor close-quarters combat to open-field snow warfare!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "XSLFgX1zYIw",
+        "uploaded_at": "2026-06-18T13:31:49.121532",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2671,6 +2689,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T13:31:38.945490"
     }
   },
   {
