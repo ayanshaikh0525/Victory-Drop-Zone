@@ -17666,13 +17666,30 @@
       "drive_file_id": "1oYFKyu-M0zqeAipVKjgdUfMktkS_85hZ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A highlight reel showing an intense close-quarters combat encounter in PUBG Mobile. The player engages enemies inside a building, secures a kill, and loots supplies while managing health.",
+        "materials": [
+          "Military Helmet (Lv. 2)",
+          "Backpack (Lv. 2)",
+          "Spetsnaz Helmet (Lv. 3)"
+        ],
+        "tools": [
+          "Smartphone",
+          "PUBG Mobile App"
+        ],
+        "viral_hook": "Watch this insane close-range reflex clutch in under 10 seconds!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "mdJSLGJSImQ",
+        "uploaded_at": "2026-06-18T22:58:06.322748",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17686,6 +17703,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T22:58:01.479264"
     }
   },
   {
