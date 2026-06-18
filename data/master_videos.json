@@ -13829,13 +13829,29 @@
       "drive_file_id": "1H644K9gJ4WWBy2RjEtwicWSy7GpFWmwK"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Rust Gameplay/Customization",
+        "summary": "The video features a stylized animated character reacting to or presenting various in-game items and character configurations from the video game Rust, specifically focusing on clothing skins and player models.",
+        "materials": [
+          "In-game clothing skins",
+          "In-game character models"
+        ],
+        "tools": [
+          "Rust (Video game)",
+          "Video editing software"
+        ],
+        "viral_hook": "Using a dynamic, high-energy anime-style animation overlay to showcase 'drip' or outfit combinations in the hardcore survival game Rust."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "aJwjVLRmodM",
+        "uploaded_at": "2026-06-18T09:22:30.618911",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13849,6 +13865,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T09:22:25.637851"
     }
   },
   {
