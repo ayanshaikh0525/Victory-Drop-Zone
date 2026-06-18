@@ -17404,13 +17404,30 @@
       "drive_file_id": "1Czi8fDx2aXwKuWhP0bYEqCH4TlEQfKNx"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Character Customization / Video Game Showcase",
+        "summary": "A close-up shot of a female game character featuring a pigtail hairstyle and custom patterned pajamas, displayed against a stylized, retro-filtered background.",
+        "materials": [
+          "Gaming software assets",
+          "Digital character model"
+        ],
+        "tools": [
+          "Video game engine",
+          "Character creator software",
+          "Video editing software"
+        ],
+        "viral_hook": "Is this the cutest character outfit in the game? Let me know your favorite look in the comments!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "xZ-3OiZPpUg",
+        "uploaded_at": "2026-06-18T17:17:43.136324",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17424,6 +17441,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T17:17:38.414595"
     }
   },
   {
