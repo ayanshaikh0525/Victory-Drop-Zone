@@ -9020,13 +9020,28 @@
       "drive_file_id": "1aHqgEtjZT562TM8E6Dg5VLO6K0CF_jkg"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A highlight reel featuring a competitive 1v1 Arena match between players 'Rizshah' and 'KRISA' in PUBG Mobile, including combat sequences and a post-game match exit.",
+        "materials": [
+          "PUBG Mobile game software"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software"
+        ],
+        "viral_hook": "Part 2: Rizshah vs KRISA - Who will dominate this intense 1v1 showdown?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "rw6-8l4ThFc",
+        "uploaded_at": "2026-06-19T07:13:31.065815",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9040,6 +9055,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T07:13:23.966686"
     }
   },
   {
