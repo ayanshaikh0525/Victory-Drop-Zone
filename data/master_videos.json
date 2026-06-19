@@ -6242,13 +6242,31 @@
       "drive_file_id": "1hn6ac0dBi1ivQU5qyGQlRTszuqhiw0Lt"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay Montage",
+        "summary": "A compilation of high-skill PUBG Mobile gameplay clips, featuring intense vehicle combat and accurate sniping, intercut with the creator displaying tournament trophies and MVP awards to establish professional gaming authority.",
+        "materials": [
+          "PUBG Mobile game footage",
+          "Tournament trophies",
+          "MVP award plaque"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Video editing software",
+          "Smartphone"
+        ],
+        "viral_hook": "POV: You're watching an MVP dominate the lobby while chilling with his trophies."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qa6m3ohJDsc",
+        "uploaded_at": "2026-06-19T01:48:39.431265",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6262,6 +6280,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T01:48:34.717239"
     }
   },
   {
