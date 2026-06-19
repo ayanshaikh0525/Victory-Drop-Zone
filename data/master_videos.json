@@ -7249,13 +7249,28 @@
       "drive_file_id": "1d6msWwa1MfE2AlQ8lSMyEuGlmYqI7As2"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "BGMI/PUBG Mobile gameplay",
+        "summary": "A mobile gamer playing a battle royale game, engaging in combat while managing in-game character abilities and weapon loadouts.",
+        "materials": [
+          "Mobile device"
+        ],
+        "tools": [
+          "Gaming chair",
+          "Headset"
+        ],
+        "viral_hook": "Intense high-skill battle royale gameplay showing clutch reflexes and character ability usage."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "GfokyVroT-o",
+        "uploaded_at": "2026-06-19T22:08:20.851638",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7269,6 +7284,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T22:08:16.137933"
     }
   },
   {
