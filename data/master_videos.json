@@ -3241,13 +3241,29 @@
       "drive_file_id": "1JBTFleqcmmo-LFm9Ferur5p5rnMaYlJk"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Weapon Comparison",
+        "summary": "A comparative analysis video showcasing the performance differences between the 'Old' DBS shotgun and the 'New' updated version of the DBS in PUBG Mobile, using the training grounds to test damage output on target dummies.",
+        "materials": [
+          "DBS Shotgun",
+          "Training Target Dummies"
+        ],
+        "tools": [
+          "PUBG Mobile Game Engine",
+          "In-game Training Ground"
+        ],
+        "viral_hook": "Is the new DBS better? We're putting the old version against the new update to show you the exact damage difference you need to know before your next drop."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WRJyy1NQRFQ",
+        "uploaded_at": "2026-06-19T20:42:48.876281",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3261,6 +3277,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T20:42:45.083209"
     }
   },
   {
