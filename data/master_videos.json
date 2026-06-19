@@ -16629,13 +16629,30 @@
       "drive_file_id": "1kYB0GAY8MgJ9wz9sbLKg2kr8p68jbSeV"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay Montage",
+        "summary": "A compilation of intense combat highlights from BGMI (Battlegrounds Mobile India). The player navigates through various terrain, engages in close-quarters firefights, and utilizes different weapon loadouts to secure kills and survive in the playzone.",
+        "materials": [
+          "Digital assets",
+          "BGMI game software"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Watch this intense 1v4 clutch moment that will leave you breathless!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ZC16uIO99bU",
+        "uploaded_at": "2026-06-19T18:59:26.411109",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16649,6 +16666,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T18:59:19.938061"
     }
   },
   {
