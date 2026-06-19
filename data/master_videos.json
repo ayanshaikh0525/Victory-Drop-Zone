@@ -1012,13 +1012,29 @@
       "drive_file_id": "13vk-K95jkRxVtcRSAoMSXiVxQlzgBxDC"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "A sequence of gameplay clips showing a player engaging in combat, eliminating opponents, and reviving teammates inside and outside buildings in a battle royale match.",
+        "materials": [
+          "Quickdraw Mag (AR)",
+          "Stock (Micro UZI)"
+        ],
+        "tools": [
+          "AKM",
+          "Micro UZI"
+        ],
+        "viral_hook": "Unbelievable reflex shots and clutch revives in the heat of battle!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ACK2TBgNwts",
+        "uploaded_at": "2026-06-19T16:09:22.399655",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1032,6 +1048,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T16:09:15.522042"
     }
   },
   {
