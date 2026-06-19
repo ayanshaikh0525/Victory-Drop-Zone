@@ -18537,13 +18537,27 @@
       "drive_file_id": "1CFazeSAaIoe8EKhHyd-y9f0obV2EFzBG"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "Showcase of a new special item in PUBG Mobile, a 'Dancing Grenade' (跳舞手雷) that forces enemy players into a dance animation upon impact, creating a temporary zone of effect.",
+        "materials": [
+          "Dancing Grenade (跳舞手雷)"
+        ],
+        "tools": [
+          "PUBG Mobile"
+        ],
+        "viral_hook": "See the funniest new item coming to PUBG Mobile: The Dancing Grenade that forces enemies to dance!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Fycx28qSHcE",
+        "uploaded_at": "2026-06-19T12:11:57.693198",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -18557,6 +18571,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T12:11:53.553208"
     }
   },
   {
