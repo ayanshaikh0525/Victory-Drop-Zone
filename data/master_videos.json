@@ -6843,13 +6843,29 @@
       "drive_file_id": "1SPvHc4OfhNzak7sfeAM07iOVLmpBAMCb"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A mobile gamer plays PUBG, navigating a buggy while actively engaging in combat with opponents in vehicles, successfully eliminating them to secure a team victory.",
+        "materials": [
+          "Smartphone",
+          "Headset"
+        ],
+        "tools": [
+          "Gaming Chair",
+          "PUBG Mobile Application"
+        ],
+        "viral_hook": "Watch this intense, high-stakes mobile combat sequence where the player wipes out enemy squads in a fast-paced buggy chase!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "sUIwDtTuoSc",
+        "uploaded_at": "2026-06-20T12:00:21.067474",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6863,6 +6879,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T12:00:16.815675"
     }
   },
   {
