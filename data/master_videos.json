@@ -10137,13 +10137,30 @@
       "drive_file_id": "11LSSgKLjJkZxcBgIX2_7ASiU7jMBWFkM"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage or gameplay snippet featuring a player in a PUBG Mobile Team Deathmatch (TDM) mode. The player is utilizing a mobile device, evidenced by the webcam overlay of the streamer playing, and is engaging in combat while moving around a warehouse map environment. The footage highlights standard aggressive gameplay mechanics.",
+        "materials": [
+          "PUBG Mobile game",
+          "Warehouse TDM Map"
+        ],
+        "tools": [
+          "Mobile device",
+          "Screen recording/Streaming software",
+          "Webcam"
+        ],
+        "viral_hook": "Can you reach Top 154? Watch this intense TDM rush gameplay."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "g7Jz7gMyktU",
+        "uploaded_at": "2026-06-20T16:23:50.774954",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10157,6 +10174,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T16:23:45.665233"
     }
   },
   {
