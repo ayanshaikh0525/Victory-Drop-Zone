@@ -11142,13 +11142,32 @@
       "drive_file_id": "1u0sMSoZN8BTTHkzKTDeHKmjEErgLsFRI"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A compilation of intense PUBG Mobile moments, starting with a friendly lobby meetup followed by active combat gameplay, including looting, engaging enemies, and performing a celebratory 'revenge dance' after a successful elimination.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "In-game cosmetic skins",
+          "Military Vest (Lv. 3)",
+          "M16A4 rifle",
+          "5.56mm ammo"
+        ],
+        "tools": [
+          "PUBG Mobile application",
+          "Mobile device"
+        ],
+        "viral_hook": "When you finally get your revenge in PUBG Mobile! 😂"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "tiR8KwIRXBw",
+        "uploaded_at": "2026-06-20T14:26:50.186861",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11162,6 +11181,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T14:26:43.037962"
     }
   },
   {
