@@ -7878,13 +7878,29 @@
       "drive_file_id": "1RwoyPNX33csT_H28PcEABb7s8S9RSPes"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A gamer plays PUBG Mobile on their phone, performing tactical maneuvers, throwing grenades, and engaging in long-range sniping combat.",
+        "materials": [
+          "PUBG Mobile game"
+        ],
+        "tools": [
+          "Smartphone",
+          "Headphones",
+          "Gaming chair"
+        ],
+        "viral_hook": "Watch this intense, high-skill clutch moment in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "iuv2Ij9-Idg",
+        "uploaded_at": "2026-06-20T09:25:00.826621",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7898,6 +7914,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T09:24:56.238101"
     }
   },
   {
