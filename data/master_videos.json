@@ -17803,13 +17803,25 @@
       "drive_file_id": "1IUDe_wevb5qul07RsfHkjHCE_ij0R7aF"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile",
+        "summary": "A high-skill gameplay clip from PUBG Mobile featuring a player using a specialized skin set, engaging in combat within an indoor building environment, and securing multiple knockdowns.",
+        "materials": [],
+        "tools": [
+          "PUBG Mobile"
+        ],
+        "viral_hook": "Watch this insane squad wipe in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "LS6GRcfxXJk",
+        "uploaded_at": "2026-06-20T18:16:39.790122",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17823,6 +17835,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T18:16:31.595826"
     }
   },
   {
