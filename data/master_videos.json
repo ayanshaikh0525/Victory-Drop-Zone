@@ -7239,13 +7239,29 @@
       "drive_file_id": "1N9Xu1WnjEyxrT8j5MZPIJniZOW6B_pDc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Mobile Gaming",
+        "summary": "A streamer plays a battle royale game on a mobile device, engaging in combat within a room setting. The gameplay features character skins, including a cactus-themed backpack, and intense firing sequences against opponents.",
+        "materials": [
+          "Smartphone",
+          "Headset"
+        ],
+        "tools": [
+          "Gaming chair",
+          "Ambient RGB lighting"
+        ],
+        "viral_hook": "Watch this intense, high-skill clutch moment during a high-stakes battle royale match!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qnC_zsFZ1Gk",
+        "uploaded_at": "2026-06-20T20:19:12.147784",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7259,6 +7275,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T20:18:58.157306"
     }
   },
   {
