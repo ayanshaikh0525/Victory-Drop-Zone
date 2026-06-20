@@ -19316,13 +19316,31 @@
       "drive_file_id": "1iJO4JXGHuDk37LPugf3VD59uvjbvsXJP"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI) Gameplay",
+        "summary": "A compilation of intense gameplay moments from BGMI, showcasing a player using an M416 with a 4x scope to perform a long-range 'spray' to eliminate enemies while navigating in a buggy vehicle.",
+        "materials": [
+          "M416 assault rifle",
+          "4x scope",
+          "Buggy vehicle"
+        ],
+        "tools": [
+          "Smartphone",
+          "BGMI game software",
+          "Screen recording software"
+        ],
+        "viral_hook": "Spray to Hai 4x😱 1 Subscribe❤️"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zZMl86NA-Cw",
+        "uploaded_at": "2026-06-20T05:19:39.964961",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -19336,6 +19354,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T05:19:33.878388"
     }
   },
   {
