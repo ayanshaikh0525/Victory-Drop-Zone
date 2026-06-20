@@ -3019,13 +3019,32 @@
       "drive_file_id": "1a5wfijr3wrR9cuTQiyGM-eeNx4zLPHC2"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "The video shows a player's experience in a PUBG Mobile match, starting with an aerial parachute drop, followed by navigating a rural environment, and finally engaging in tactical movement while prone in a grassy, wooded area.",
+        "materials": [
+          "Digital game assets",
+          "Player character skin",
+          "In-game backpack",
+          "Weapon loadout (Bolt-action rifles)"
+        ],
+        "tools": [
+          "PUBG Mobile game engine",
+          "Smartphone (Mobile device)",
+          "In-game HUD interface"
+        ],
+        "viral_hook": "Mastering the tactical drop: Watch how this player navigates the map to secure a strategic position."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qgJ2VofielA",
+        "uploaded_at": "2026-06-20T22:14:09.811205",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3039,6 +3058,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T22:14:00.023497"
     }
   },
   {
