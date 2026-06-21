@@ -8633,13 +8633,30 @@
       "drive_file_id": "1gmT3KrY1ODPnfAunFDhHOgKDk75omrYv"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "This video features a highlight reel from a high-intensity PUBG Mobile Team Deathmatch (TDM) game, showcasing skilled movement, tactical positioning, and rapid eliminations. The player utilizes specific character skins and abilities, including temporary invincibility, while navigating a warehouse-themed map to secure kills.",
+        "materials": [
+          "PUBG Mobile Game Client",
+          "In-game cosmetics (Character skin, Backpack skin)"
+        ],
+        "tools": [
+          "Mobile Smartphone",
+          "Screen recording software",
+          "Video editing software (for high-contrast/chromatic aberration effects)"
+        ],
+        "viral_hook": "Watch this insane invincibility clutch that turned the tide of the match!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "DkBg-q6L2oc",
+        "uploaded_at": "2026-06-21T15:57:34.479971",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8653,6 +8670,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T15:57:21.209262"
     }
   },
   {
