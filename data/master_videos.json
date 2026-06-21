@@ -17221,13 +17221,31 @@
       "drive_file_id": "1Lq0ExZpXb24P_OXWVOfefg3Wsy0nPOE1"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Entertainment",
+        "project": "PUBG Mobile Character Showcase",
+        "summary": "A short video showcasing a female character in PUBG Mobile, dressed in a specialized 'ice-themed' or anime-style outfit, performing an emote animation in an outdoor game environment.",
+        "materials": [
+          "Digital character assets",
+          "In-game cosmetic skin",
+          "Emote animation data"
+        ],
+        "tools": [
+          "PUBG Mobile game engine",
+          "Video recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "High-quality character customization showcase featuring trending anime-aesthetic skins that appeal to competitive mobile gamers."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "dfiqXuvAs8g",
+        "uploaded_at": "2026-06-21T19:50:33.566458",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17241,6 +17259,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T19:50:12.495438"
     }
   },
   {
