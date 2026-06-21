@@ -19666,13 +19666,29 @@
       "drive_file_id": "1DPiSXlGdTd0TaD2b61uDkblD7ql4Wr9l"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A showcase of new gameplay mechanics in a PUBG Mobile update, specifically demonstrating the use of a portal/teleportation device to travel across the map.",
+        "materials": [
+          "PUBG Mobile game",
+          "Portal device"
+        ],
+        "tools": [
+          "Mobile phone",
+          "Screen recorder"
+        ],
+        "viral_hook": "See the craziest new feature coming to PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "y3m0oWouq34",
+        "uploaded_at": "2026-06-21T06:07:34.524351",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -19686,6 +19702,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T06:07:30.673621"
     }
   },
   {
