@@ -15991,13 +15991,31 @@
       "drive_file_id": "1_-oTEqZVUMf1Ek8ycXTdHn_WGa6xSdkW"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A compilation of intense combat sequences from a PUBG Mobile match, showcasing tactical maneuvers, close-quarters gunfights, and specialized holiday-themed map elements like recall towers and festive loot boxes.",
+        "materials": [
+          "PUBG Mobile account",
+          "Various in-game weapons (assault rifles)",
+          "Healing items",
+          "Tactical grenades"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these clutch plays and insane precision in the latest PUBG Mobile holiday update!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WDvfeTQ7rx0",
+        "uploaded_at": "2026-06-21T10:34:38.573874",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16011,6 +16029,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T10:34:14.146565"
     }
   },
   {
