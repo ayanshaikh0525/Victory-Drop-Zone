@@ -1371,13 +1371,29 @@
       "drive_file_id": "1y0uH8kfYK9mafb088EDQDLmWhFQKt2Du"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Entertainment",
+        "project": "PUBG Mobile Character Showcase",
+        "summary": "A video featuring a custom character skin in PUBG Mobile, performing a synchronized dance animation in the game's lobby interface with futuristic, glowing stage elements.",
+        "materials": [
+          "Digital character skin",
+          "PUBG Mobile game assets"
+        ],
+        "tools": [
+          "PUBG Mobile game engine",
+          "Screen recording software"
+        ],
+        "viral_hook": "Check out this exclusive character animation and outfit in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "khz9ZCqbudk",
+        "uploaded_at": "2026-06-21T00:13:13.082617",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1391,6 +1407,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T00:13:08.539480"
     }
   },
   {
