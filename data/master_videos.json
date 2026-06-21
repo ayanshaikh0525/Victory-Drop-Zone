@@ -7135,13 +7135,29 @@
       "drive_file_id": "1fXvxOtiIgnbZUd_1yiFqE4g5TrT51GIU"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI) Gameplay",
+        "summary": "The video features a split-screen view showing a professional BGMI player in intense combat, maneuvering through indoor and outdoor environments, engaging multiple opponents, and demonstrating high-level tactical awareness.",
+        "materials": [
+          "Mobile device",
+          "Headset"
+        ],
+        "tools": [
+          "Gaming chair",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch one of India's top BGMI players navigate a chaotic squad wipe with incredible precision and focus."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "QRWCJ6cak-s",
+        "uploaded_at": "2026-06-21T13:10:58.327530",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7155,6 +7171,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T13:10:53.193890"
     }
   },
   {
