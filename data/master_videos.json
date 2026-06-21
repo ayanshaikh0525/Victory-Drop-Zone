@@ -780,13 +780,26 @@
       "drive_file_id": "1pGdGTtNT2owDFBJchkjqs-dCXw8biSd3"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A player engages in a tactical combat sequence in PUBG Mobile. The player uses a grenade to clear out an enemy position in a two-story building while coordinating with their squad, followed by entering the building to secure the area.",
+        "materials": [],
+        "tools": [
+          "Grenade",
+          "Assault Rifle"
+        ],
+        "viral_hook": "See how a perfectly timed grenade completely changes the outcome of this intense 1v1 building push!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "o0kyU1uku_M",
+        "uploaded_at": "2026-06-21T17:46:35.760220",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -800,6 +813,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T17:46:30.559150"
     }
   },
   {
