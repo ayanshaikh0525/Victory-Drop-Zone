@@ -7606,13 +7606,31 @@
       "drive_file_id": "1W-beS-1Yd-NgygcznT9TH_fGCCAL6COb"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Fashion & Lifestyle",
+        "project": "Fashion Outfit Showcase/Transition Edit",
+        "summary": "This video is a fast-paced compilation of different outfit looks worn by a young man, utilizing various transitions and visual effects to showcase his personal style and grooming.",
+        "materials": [
+          "Graphic print jackets",
+          "Casual shirts",
+          "Gold chain accessory",
+          "Fashionable glasses"
+        ],
+        "tools": [
+          "Video editing software (CapCut or similar)",
+          "Camera/Smartphone"
+        ],
+        "viral_hook": "A rapid-fire series of outfit transitions synced to music, creating a high-energy 'glow up' or style showcase effect."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ZKH704foG4s",
+        "uploaded_at": "2026-06-21T23:20:29.835233",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7626,6 +7644,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T23:20:22.373420"
     }
   },
   {
