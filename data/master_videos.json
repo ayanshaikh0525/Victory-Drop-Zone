@@ -12083,13 +12083,28 @@
       "drive_file_id": "18aOPgQN3VQA08DDVwiNmTE8KB5nfPB82"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage-style gameplay clip of a player in a PUBG Mobile match. The player utilizes a sniper rifle with a scope to engage and eliminate multiple long-distance opponents from behind the cover of a tree, showcasing tactical positioning and high-precision aiming to secure team eliminations.",
+        "materials": [],
+        "tools": [
+          "Sniper rifle",
+          "Scope",
+          "Health kits",
+          "Smoke grenade"
+        ],
+        "viral_hook": "How to clear an entire squad with one sniper rifle!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "74UV_f5Crqc",
+        "uploaded_at": "2026-06-22T22:08:04.494530",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12103,6 +12118,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T22:07:57.788014"
     }
   },
   {
