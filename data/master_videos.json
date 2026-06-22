@@ -10514,13 +10514,30 @@
       "drive_file_id": "1mfCcCG2g2u5v2DLV0PoBlPYXNi5HcEfF"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Entertainment",
+        "project": "PUBG Mobile Hunter x Hunter Collaboration Showcase",
+        "summary": "A rapid-fire video edit showcasing various character skins from the Hunter x Hunter collaboration within the PUBG Mobile lobby environment, featuring characters like Gon and Killua.",
+        "materials": [
+          "PUBG Mobile game assets",
+          "Hunter x Hunter character skins (Gon, Killua)",
+          "In-game cosmetic items"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Video editing software (e.g., CapCut, After Effects)"
+        ],
+        "viral_hook": "Watch these iconic Hunter x Hunter characters come to life in PUBG Mobile with smooth, high-energy transitions."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "hOKt2QJ7U6I",
+        "uploaded_at": "2026-06-22T10:43:46.784310",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10534,6 +10551,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T10:43:41.998729"
     }
   },
   {
