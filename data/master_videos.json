@@ -5088,13 +5088,28 @@
       "drive_file_id": "1BsL6z20Q5m0Pf9bgWB_wk7qjW0zFECUv"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A montage of intense competitive team deathmatch gameplay in PUBG Mobile, highlighting aggressive rushes, target locking, and securing multiple kills to maintain a lead.",
+        "materials": [
+          "PUBG Mobile Game Client"
+        ],
+        "tools": [
+          "Mobile Device",
+          "Screen Recording Software"
+        ],
+        "viral_hook": "Watch this insane 6-kill streak and target-locking masterclass in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_2Cc5dGfAMo",
+        "uploaded_at": "2026-06-22T04:54:56.573678",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5108,6 +5123,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T04:54:52.166151"
     }
   },
   {
