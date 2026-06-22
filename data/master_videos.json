@@ -15960,13 +15960,26 @@
       "drive_file_id": "16Lv3ZE9hMfbYkoFaup8mw8DAFAtVGZOb"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay",
+        "summary": "A compilation of aggressive tactical gameplay highlights featuring a player moving through snowy and suburban environments in a mobile battle royale game, engaging in combat with opponents.",
+        "materials": [],
+        "tools": [
+          "Smartphone",
+          "Battle Royale game software (BGMI/PUBG Mobile)"
+        ],
+        "viral_hook": "Intense clutch moments and rapid-fire eliminations set to a high-energy gaming montage."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "PJT0Tl4RVGc",
+        "uploaded_at": "2026-06-22T15:57:22.119343",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -15980,6 +15993,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T15:57:15.932937"
     }
   },
   {
