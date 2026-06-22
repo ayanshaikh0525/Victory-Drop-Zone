@@ -9547,13 +9547,29 @@
       "drive_file_id": "1Ou0ygN6Y4Mvfnu9XX2eA9SC7OhaWF9P5"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming / Entertainment",
+        "project": "PUBG Mobile / Anime Crossover Animation",
+        "summary": "A creative video edit featuring PUBG Mobile gameplay characters transitioning into an anime-style sword fighting sequence, seemingly inspired by 'Sword Art Online'. The video contrasts realistic firearm combat with stylized, high-energy 2D animation.",
+        "materials": [
+          "PUBG Mobile in-game assets",
+          "Anime animation footage (Sword Art Online)"
+        ],
+        "tools": [
+          "Video editing software (e.g., Adobe Premiere Pro, CapCut, or After Effects)",
+          "Screen recording software"
+        ],
+        "viral_hook": "When your PUBG lobby turns into a full-blown anime battle! 🔥"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "DgTNe3SHs_c",
+        "uploaded_at": "2026-06-22T19:38:06.046384",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9567,6 +9583,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T19:38:01.506494"
     }
   },
   {
