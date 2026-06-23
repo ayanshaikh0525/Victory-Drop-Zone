@@ -17778,13 +17778,30 @@
       "drive_file_id": "1WGL7eNdbuQze7CoCi-dy-ULc6lVVKD_0"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI)",
+        "summary": "A gameplay clip showcasing a quick reflex kill in a third-person shooter battle royale setting. The player maneuvers around a building, engages in a short firefight, uses smoke grenades for tactical cover, and successfully eliminates an opponent.",
+        "materials": [
+          "Digital game assets",
+          "In-game weapon (AKM)"
+        ],
+        "tools": [
+          "Mobile device",
+          "BGMI game application",
+          "Screen recording software"
+        ],
+        "viral_hook": "Reflex to Hai😱 1 subscribe❤️"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "inP4PbWjwFE",
+        "uploaded_at": "2026-06-23T21:01:50.191542",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17798,6 +17815,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T21:01:45.551894"
     }
   },
   {
