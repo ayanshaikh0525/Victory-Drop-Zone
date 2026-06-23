@@ -35,13 +35,30 @@
       "drive_file_id": "1Mh0ckj_npdKRgk_M4_NyuYOYEs920hPa"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI) Gameplay",
+        "summary": "A player executes a tactical grenade throw during an intense combat situation in BGMI, aiming to eliminate opponents inside a building while using a themed vehicle.",
+        "materials": [
+          "Grenade",
+          "Assault Rifle (AKM)",
+          "Cheese-themed UAZ vehicle"
+        ],
+        "tools": [
+          "Mobile Gaming Device",
+          "In-game HUD controls"
+        ],
+        "viral_hook": "Watch this OP grenade play that turns the tide of the battle—wait for the end!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "icCf3X6rBdo",
+        "uploaded_at": "2026-06-23T15:53:28.404792",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -55,6 +72,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T15:53:23.154986"
     }
   },
   {
