@@ -1705,13 +1705,30 @@
       "drive_file_id": "1P2g-hgKdtctSIIo9v6OhrlsG-7PV53p9"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile / BGMI Gameplay",
+        "summary": "A gameplay highlight showcasing the effectiveness of the Groza assault rifle in a PUBG Mobile/BGMI match, ending in a victory.",
+        "materials": [
+          "Groza assault rifle",
+          "Ammunition",
+          "PUBG Mobile/BGMI character skin and gear"
+        ],
+        "tools": [
+          "Smartphone",
+          "Game recording software"
+        ],
+        "viral_hook": "Power of GROZA 😱 Wait for End🔥"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "n2joLW9C9_A",
+        "uploaded_at": "2026-06-23T23:11:35.361763",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1725,6 +1742,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T23:11:30.573153"
     }
   },
   {
