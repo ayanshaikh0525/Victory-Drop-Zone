@@ -180,13 +180,29 @@
       "drive_file_id": "1lAnYBzw7rOor5eEBstV3wNzyHbZSr_lZ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "BGMI Gameplay Highlight",
+        "summary": "A compilation of intense and humorous gameplay moments in BGMI, featuring strategic positioning, intense gunfights, and a final sequence involving a grenade explosion.",
+        "materials": [
+          "Mobile device",
+          "BGMI Game"
+        ],
+        "tools": [
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "Funny scene 😂 Wait for end😂"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ICU12GgS9DY",
+        "uploaded_at": "2026-06-23T00:11:56.915591",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -200,6 +216,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T00:11:52.336827"
     }
   },
   {
