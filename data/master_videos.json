@@ -12350,13 +12350,27 @@
       "drive_file_id": "1S5XwbjhcDKd7akTfWCATi5GZvTbJTEMK"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Lite Gameplay",
+        "summary": "A short gameplay clip showing a player engaging in a sniper battle using a Kar98k in a TDM (Team Deathmatch) match. The player successfully lands a shot on an enemy, resulting in a 'First Blood' kill notification.",
+        "materials": [
+          "Kar98k bolt-action rifle"
+        ],
+        "tools": [
+          "Mobile device (PUBG Mobile Lite game)"
+        ],
+        "viral_hook": "Watch this satisfying Kar98k one-tap shot in PUBG Mobile Lite!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "UeiyPR91fUU",
+        "uploaded_at": "2026-06-23T18:02:25.940737",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12370,6 +12384,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T18:02:19.825945"
     }
   },
   {
