@@ -16730,13 +16730,33 @@
       "drive_file_id": "1eeJAyAD-83UA8GpuWm-Jt92vhbpNgnE5"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale Gameplay (PUBG Mobile/BGMI)",
+        "summary": "The video showcases high-skill gameplay in a Battle Royale mobile game. The player navigates through a map, engages in long-range combat using scoped rifles, uses vehicles for mobility, and utilizes special game mode items like 'Snow Blast' grenades to tactically eliminate opponents and secure team wins.",
+        "materials": [
+          "In-game vehicles (car, jeep)",
+          "Weapons (Assault Rifles)",
+          "Scopes (Red dot, higher magnification)",
+          "Consumables (Energy drinks)",
+          "Tactical items (Snow Blast grenades)"
+        ],
+        "tools": [
+          "Smartphone",
+          "Gaming touch controls",
+          "In-game UI"
+        ],
+        "viral_hook": "Mastering high-skill long-range sniper shots and tactical plays to dominate the leaderboard in this intense battle royale match."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "70TGT9EYRxI",
+        "uploaded_at": "2026-06-23T05:06:04.871497",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16750,6 +16770,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T05:06:00.031080"
     }
   },
   {
