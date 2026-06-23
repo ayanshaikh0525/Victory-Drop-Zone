@@ -576,13 +576,26 @@
       "drive_file_id": "1gl3XzHaqBSD_Ecp_rdX91yX9Lei4JokP"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI) Gameplay",
+        "summary": "A gameplay sequence in BGMI where a player, using an assault rifle with a special finish, engages in combat, uses tactical movement by climbing onto crates to gain a height advantage, and eliminates an opponent during a Team Deathmatch session.",
+        "materials": [],
+        "tools": [
+          "Smartphone",
+          "BGMI Game Client"
+        ],
+        "viral_hook": "Master this parkour trick to outplay your opponents in BGMI TDM!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "exSn_ATTCHc",
+        "uploaded_at": "2026-06-23T12:37:10.828468",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -596,6 +609,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T12:37:06.127791"
     }
   },
   {
