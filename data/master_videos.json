@@ -6685,13 +6685,30 @@
       "drive_file_id": "1MH3oB5muW7wgfxIJm7ku3xXl1J1uQTl5"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A gamer plays PUBG Mobile on their phone, successfully engaging and eliminating opponents while wearing a ghillie suit in an open-field combat scenario.",
+        "materials": [
+          "Smartphone",
+          "Headset"
+        ],
+        "tools": [
+          "Gaming Chair",
+          "Ghillie suit (in-game item)",
+          "In-game weaponry"
+        ],
+        "viral_hook": "Watch how this pro player secures multiple intense kills in a final zone showdown!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zRlMM9Z4Gt0",
+        "uploaded_at": "2026-06-23T09:51:14.408446",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6705,6 +6722,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T09:51:06.917779"
     }
   },
   {
