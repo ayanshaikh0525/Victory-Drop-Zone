@@ -17924,13 +17924,30 @@
       "drive_file_id": "1QAzHUq4JSRxHjlrUIhx3YXerzyLH0wRP"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale (BGMI/PUBG Mobile) Gameplay",
+        "summary": "A high-skill BGMI gameplay clip showcasing a player pulling off a '1v4' clutch in a snowy winter-themed map. The player uses tactical items like ice walls, grenades, and automatic weapons to eliminate an entire opposing squad in rapid succession.",
+        "materials": [
+          "BGMI (Battlegrounds Mobile India) game app",
+          "In-game inventory items (grenades, healing items, ammunition)"
+        ],
+        "tools": [
+          "Smartphone",
+          "In-game HUD controls",
+          "Screen recording software"
+        ],
+        "viral_hook": "1v4 Fast Clutch! Wait for End"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "do_udxw3EDM",
+        "uploaded_at": "2026-06-24T16:24:45.287463",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17944,6 +17961,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T16:24:40.992014"
     }
   },
   {
