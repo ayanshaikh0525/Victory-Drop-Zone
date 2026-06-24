@@ -8504,13 +8504,27 @@
       "drive_file_id": "1UuLosaWk1GbcOBaBQoKFFkPNP-W3f0PG"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A player engaging in close-quarters combat inside a building during a PUBG Mobile match. The player uses tactical positioning and weaponry to secure eliminations and clear the room.",
+        "materials": [],
+        "tools": [
+          "PUBG Mobile",
+          "Smartphone",
+          "Digital interface"
+        ],
+        "viral_hook": "Watch this intense close-range building clear in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "fPouyl7gY14",
+        "uploaded_at": "2026-06-24T13:25:35.470964",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8524,6 +8538,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T13:25:29.451380"
     }
   },
   {
