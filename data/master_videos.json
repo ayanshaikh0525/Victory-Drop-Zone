@@ -3915,13 +3915,32 @@
       "drive_file_id": "17CcaUmjsIYcdzEOjoasd47ya39uFE4z8"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A comedic gaming sequence where a player in a default tactical outfit confronts a group of players dressed in B.Duck-themed costumes. The clip utilizes typical 'troll' or humorous gameplay interactions common in PUBG Mobile short-form content.",
+        "materials": [
+          "Digital game assets",
+          "B.Duck character skins",
+          "Default player skin",
+          "Firearm models"
+        ],
+        "tools": [
+          "PUBG Mobile",
+          "Screen recording software",
+          "Video editing software"
+        ],
+        "viral_hook": "When you try to take on the B.Duck squad solo but they just keep spawning."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "gLlI7R1n5vI",
+        "uploaded_at": "2026-06-24T20:50:32.085314",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3935,6 +3954,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T20:50:27.275672"
     }
   },
   {
