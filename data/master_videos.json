@@ -12362,13 +12362,29 @@
       "drive_file_id": "1cxcabIpesdXY7i2_F7RDV0ETNipMXIxn"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "BGMI (Battlegrounds Mobile India) Gameplay Highlights",
+        "summary": "The video features a montage of intense gameplay highlights from the mobile game BGMI, showcasing a player engaging in combat, using scopes for long-range targets, and securing eliminations. The clips show a mix of direct screen recording and the player's reactions.",
+        "materials": [
+          "Mobile device",
+          "Headphones"
+        ],
+        "tools": [
+          "BGMI (Game)",
+          "Screen recording software"
+        ],
+        "viral_hook": "Watch these insane long-range sniping skills and intense combat moments in BGMI that you won't want to miss!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "8ncEx9K35aw",
+        "uploaded_at": "2026-06-24T22:21:50.092297",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12382,6 +12398,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T22:21:46.086715"
     }
   },
   {
