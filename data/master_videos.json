@@ -4486,13 +4486,28 @@
       "drive_file_id": "1L5ir05w7rePoedJAWJ8aJoRkbFsiHfsp"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI)",
+        "summary": "A montage video showing a player seeking revenge for their downed teammate in a fast-paced battle scenario, culminating in an intense gunfight and the elimination of an opponent.",
+        "materials": [
+          "Battlegrounds Mobile India game"
+        ],
+        "tools": [
+          "Smartphone",
+          "Screen recording software"
+        ],
+        "viral_hook": "Revenge for teammate - Wait for End 😱"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "6gvtKO3ZJHk",
+        "uploaded_at": "2026-06-24T10:55:16.525870",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4506,6 +4521,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T10:55:12.236769"
     }
   },
   {
