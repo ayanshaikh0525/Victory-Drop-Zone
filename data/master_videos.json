@@ -6683,13 +6683,32 @@
       "drive_file_id": "1GUy38txXiX3vdEZETGKpU_Ej0Z4iiY7j"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Gameplay",
+        "summary": "A high-intensity gaming session featuring a player navigating a building, engaging in tactical combat using grenades, and securing eliminations with precise gunplay.",
+        "materials": [
+          "PUBG Mobile account",
+          "In-game currency (Shop Tokens)",
+          "Frag Grenades",
+          "Proxy Scout Device"
+        ],
+        "tools": [
+          "Smartphone",
+          "Gaming headset",
+          "Gaming chair"
+        ],
+        "viral_hook": "Watch this insane squad wipe—perfect grenade timing and clutch gunplay in PUBG Mobile!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "1taQhMf3PsQ",
+        "uploaded_at": "2026-06-24T03:59:01.745909",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6703,6 +6722,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T03:58:56.024284"
     }
   },
   {
