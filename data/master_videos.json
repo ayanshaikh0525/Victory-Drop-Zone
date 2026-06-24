@@ -15211,13 +15211,30 @@
       "drive_file_id": "1ks9Xq9YMo26GCW0P3DLYi02_EXfifqed"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battlegrounds Mobile India (BGMI)",
+        "summary": "The player demonstrates a skillful gameplay sequence in BGMI, involving tactical positioning, grenade usage, and securing eliminations to achieve a 'rich' loot status. The video includes text overlays and call-to-action prompts for the channel 'DR SOMDEV 2.0'.",
+        "materials": [
+          "Gaming smartphone",
+          "BGMI mobile game account"
+        ],
+        "tools": [
+          "In-game weapons (Assault Rifles)",
+          "Grenades",
+          "Screen recording software"
+        ],
+        "viral_hook": "The video uses a 'I ALSO BECAME RICH' title combined with 'PERFECT NADE' text overlays to pique curiosity about high-level gameplay and loot rewards."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "fMZMcKZx3FQ",
+        "uploaded_at": "2026-06-24T07:51:23.747377",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -15231,6 +15248,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T07:51:18.799817"
     }
   },
   {
