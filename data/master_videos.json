@@ -7181,13 +7181,27 @@
       "drive_file_id": "1ncFZJMeeKfbctdU8drNxfMnBHP9bKk-R"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "Battle Royale mobile gameplay",
+        "summary": "A gamer plays Battlegrounds Mobile India (BGMI) / PUBG Mobile, showcasing intense combat scenarios, including rushing opponents in a building and securing multiple squad eliminations with tactical movement.",
+        "materials": [],
+        "tools": [
+          "Smartphone",
+          "Headset",
+          "Gaming chair"
+        ],
+        "viral_hook": "Watch this insane 1v4 squad wipe that saved the game!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "J9Ak6zLeRKs",
+        "uploaded_at": "2026-06-25T05:08:49.240866",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7201,6 +7215,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-25T05:08:44.018084"
     }
   },
   {
