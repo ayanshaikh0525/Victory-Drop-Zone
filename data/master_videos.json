@@ -17412,13 +17412,28 @@
       "drive_file_id": "1wCxLuqBI9TOylx6XWVKE3LTX30YWxYZo"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Gaming",
+        "project": "PUBG Mobile Lite",
+        "summary": "A gameplay clip showing a player engaging in a team deathmatch style encounter. The player aims at an opponent behind cover, attempts to land a shot, and is subsequently eliminated by an enemy player using a Kar98k sniper rifle via a headshot.",
+        "materials": [
+          "M416 assault rifle",
+          "Kar98k sniper rifle"
+        ],
+        "tools": [
+          "PUBG Mobile Lite"
+        ],
+        "viral_hook": "Watch this intense sniper duel end in a brutal one-tap headshot!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9ZC5hCICmC8",
+        "uploaded_at": "2026-06-25T00:17:37.093605",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17432,6 +17447,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-25T00:17:31.245151"
     }
   },
   {
